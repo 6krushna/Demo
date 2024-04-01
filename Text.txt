@@ -1,1 +1,3 @@
-Hi git bash And github  by promod..k
+Hi git bash And github
+
+github main file connect in the git 
