@@ -1,3 +1,20 @@
 Hi git bash And github
 
 github main file connect in the git 
+
+
+
+// git clone and ls use local folder get all file and 
+// change file 
+
+
+
+
+int a=10;
+
+int b=20;
+
+System.out.println(30);
+
+
+//change file
