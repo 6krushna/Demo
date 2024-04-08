@@ -1,1 +1,15 @@
-Hiii
+class Main{
+
+
+public static void main (String[]args){
+
+
+int a=15,int b=17,int c;
+
+System.out.println(c=a+b);
+
+
+}
+
+
+}
